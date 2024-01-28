@@ -1,6 +1,6 @@
-'''Criar um sistema simples, onde o cliente inseri se entrar no sistema para cadastrar
-um novo úsuario ou sair. Ao informar que deseja cadastrar um novo úsuario pede alguns dados
-do como nome, CPF, data de nascimento e telefone, quando terminar de inserir os dados
+'''Criar um sistema simples, onde o cliente vai inserir se deseja entrar no sistema para cadastrar
+um novo úsuario ou sair. Ao informar que deseja cadastrar um novo úsuario o sistema vai pedir alguns 
+dados como nome, CPF, data de nascimento e telefone, quando terminar de inserir os dados
 pergunta novamente se deseja adicionar um novo usuario ou sair do sistema.'''
 
 #Entrar no sistema de Registro
