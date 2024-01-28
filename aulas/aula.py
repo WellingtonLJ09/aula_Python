@@ -1,7 +1,7 @@
-maior = 2 > 1
-maior_ou_igual = 2>=2
-menor = 1 < 2
-menor_ou_igual = 2<= 2
-igual = 'a' == 'a'
-diferente = 'a' != 'b'
-print(maior)
+primeiro_valor = input('Digite um valor: ')
+segundo_valor = input('Digte outro valor: ')
+
+if primeiro_valor > segundo_valor:
+    print(f'{primeiro_valor=} é maior do que {segundo_valor=}')
+else:
+    print(f'{segundo_valor=} é maior do que {primeiro_valor=}')
