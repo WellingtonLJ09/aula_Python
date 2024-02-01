@@ -4,7 +4,7 @@ informe se este número é par ou ímpar. Caso o usuário não digite um número
 inteiro, informe que não é um número inteiro.
 """
 num = input('Digite um número: ')
-if num.isnumeric():
+if num.isdigit():
   print('número inteiro')
   if (int(num) % 2) == 0:
     print('número par')
