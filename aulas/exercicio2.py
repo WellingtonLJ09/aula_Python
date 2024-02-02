@@ -60,6 +60,3 @@ if nomeP >1:
         print('Seu nome é muito grande')
 else:
     print('Digite mais de uma letra')
-
-
-    '''teste'''
