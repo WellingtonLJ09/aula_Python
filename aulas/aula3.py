@@ -4,8 +4,7 @@ REPETIÇÕES
 While(enquanto)
 Executa uma ação enquanto uma condição for verdadeira
 '''
-numero = input('Digite o número que você deseja saber a tabuada: ')
-numero = int(numero)
+numero = int(input('Digite o número que você deseja saber a tabuada: '))
 i = 0
 
 while i <= 10:
@@ -15,4 +14,3 @@ while i <= 10:
     
 
 print("fim da conta")
-
