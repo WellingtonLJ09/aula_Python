@@ -1,7 +1,7 @@
 """
 Sistema com limite de tentativa de senhas para treinar o FOR(Usada quando sabemos a quantidade de repetições
 definida, diferente do WHILE que deve ser usada quando não sabemos a quantidade de repetições.)
-FOR = Para...de...
+FOR = Para...de...até..passo...faça
 WHILE = Enquanto
 """
 
